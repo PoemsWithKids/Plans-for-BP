@@ -1,6 +1,6 @@
 # BP keynote构想  
 
-<img width="1086" alt="2016-04-20 12 06 22" src="https://cloud.githubusercontent.com/assets/11477264/14740739/844a5226-0891-11e6-8786-1013a6a535f3.png">
+![](https://cloud.githubusercontent.com/assets/7939847/14761451/4f210cee-0962-11e6-8d49-ce86f180a2fc.png)
 
 ##Part1 宝儿妈妈的焦虑
 ###slide1  
